@@ -39,6 +39,7 @@ Web-Scraping-Books-To-Scrape/
 │       └── books.csv          # Optional output file
 ├── scrapy.cfg                 # Scrapy configuration
 └── .gitignore                # Excludes unnecessary files
+└── .requirements.txt         # Python dependencies
 ```
 
 ---
