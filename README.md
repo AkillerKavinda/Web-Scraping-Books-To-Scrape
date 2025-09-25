@@ -38,7 +38,6 @@ Web-Scraping-Books-To-Scrape/
 │       ├── books-rating-num.py # Spider with numeric rating mapping
 │       └── books.csv          # Optional output file
 ├── scrapy.cfg                 # Scrapy configuration
-├── requirements.txt           # Python dependencies
 └── .gitignore                # Excludes unnecessary files
 ```
 
